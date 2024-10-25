@@ -5,7 +5,6 @@ public class Juros {
     public static void main(String[] args) throws Exception{
         Scanner sc = new Scanner(System.in);
         Locale.setDefault(Locale.US);
-
         System.out.println("Juros simples(JS) // Juros compostos(JC): ");
         String tipo = sc.next();
 
